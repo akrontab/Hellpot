@@ -1,0 +1,9 @@
+{"level":"debug","time":"2022-08-23T04:36:59Z","message":"debug enabled"}
+{"level":"info","file":"/home/www/.config/HellPot/config.toml","time":"2022-08-23T04:36:59Z","message":"current config"}
+{"level":"info","file":"/home/www/.config/HellPot/logs/23_Aug_22_04-36_UTC.log","time":"2022-08-23T04:36:59Z","message":"current log"}
+{"level":"info","caller":"127.0.0.1:8080","time":"2022-08-23T04:36:59Z","message":"Listening and serving HTTP..."}
+{"level":"debug","PATHS":["wp-login.php","wp-login"],"time":"2022-08-23T04:37:11Z","message":"SERVE_ROBOTS"}
+{"level":"info","USERAGENT":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36","REMOTE_ADDR":"75.166.17.141","URL":"/wp-login.php","time":"2022-08-23T04:37:24Z","message":"NEW"}
+{"level":"debug","USERAGENT":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36","REMOTE_ADDR":"75.166.17.141","URL":"/wp-login.php","error":"connection closed","time":"2022-08-23T04:37:31Z","message":"END_ON_ERR"}
+{"level":"info","USERAGENT":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36","REMOTE_ADDR":"75.166.17.141","URL":"/wp-login.php","BYTES":83973037,"DURATION":6146.483483,"time":"2022-08-23T04:37:31Z","message":"FINISH"}
+{"level":"warn","time":"2022-08-23T04:38:23Z","message":"Shutting down server..."}

@@ -1,0 +1,6 @@
+{"level":"debug","time":"2022-08-23T04:47:24Z","message":"debug enabled"}
+{"level":"info","file":"/home/www/.config/HellPot/config.toml","time":"2022-08-23T04:47:24Z","message":"current config"}
+{"level":"info","file":"/home/www/.config/HellPot/logs/23_Aug_22_04-47_UTC.log","time":"2022-08-23T04:47:24Z","message":"current log"}
+{"level":"info","caller":"127.0.0.1:8080","time":"2022-08-23T04:47:24Z","message":"Listening and serving HTTP..."}
+{"level":"error","error":"listen tcp4 127.0.0.1:8080: bind: address already in use","time":"2022-08-23T04:47:24Z","message":"HTTP err"}
+{"level":"warn","time":"2022-08-23T04:47:29Z","message":"Shutting down server..."}
