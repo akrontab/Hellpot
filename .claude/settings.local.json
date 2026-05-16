@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\Aaron\\\\repo\\\\HellPot\" -Depth 2)",
+      "Bash(Select-Object -Property Mode, Name)",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\Aaron\\\\repo\\\\HellPot\" -Depth 2 -Force | Where-Object { $_.Name -notmatch \"\\\\.venv\" } | Select-Object -Property Mode, Name, FullName)"
+    ]
+  }
+}
